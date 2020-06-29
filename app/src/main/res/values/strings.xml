@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chris app</string>
+    <string name="testLabel">Hello, world!</string>
+</resources>
